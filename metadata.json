@@ -1,0 +1,6 @@
+{
+  "name": "Corekraft - Crack the Christmas Box",
+  "description": "Can you crack the Christmas box? 15 tiles. 90 seconds. Solve the luxury Corekraft holiday gift hamper sliding puzzle!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
